@@ -211,6 +211,16 @@ email       : mohammedtaabisha@gmail.com
 
 ---
 
+# 🐍 Contribution Snake — Watch My Garden Grow
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Taabish07/Taabish07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</p>
+
+---
+
 # 📈 Contribution Activity Graph
 
 <p align="center">
