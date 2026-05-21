@@ -1,18 +1,24 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" />
+# MOHAMMED TAABISH
+
+### 🚀 Blockchain Developer | Full Stack Developer | AI/ML Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=Web3+Builder;Hackathon+Winner;MERN+Stack+Developer;AI%2FML+Enthusiast;Building+Futuristic+Applications" />
 
 <br><br>
-
-# 🚀 Blockchain Developer | Full Stack Developer | AI/ML Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=800&lines=Web3+Builder;Hackathon+Winner;MERN+Stack+Developer;Building+Futuristic+Applications" />
-
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=Taabish07&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
 
 <img src="https://img.shields.io/github/followers/Taabish07?label=FOLLOWERS&style=for-the-badge&color=8A2BE2" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
 
 </div>
 
@@ -38,17 +44,30 @@ email       : mohammedtaabisha@gmail.com
 - 🧠 Passionate about NLP & Computer Vision
 - 🏆 Winner — Hackstronauts 24-Hour Hackathon
 - 🎤 Host & Speaker at Tech Events
-- ⚡ Building futuristic decentralized apps
+- ⚡ Building futuristic decentralized applications
 
 </td>
 
 <td width="40%">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 </td>
+
 </tr>
 </table>
+
+---
+
+# 🏆 Professional Exposure
+
+| 🎯 Event | 📍 Role | 🌍 Location |
+|---|---|---|
+| Team 1 Gaming Night (Avalanche Chain) S1 | Co-Host | Coimbatore |
+| Hackstronauts 24-Hour Hackathon | Winner | Chennai |
+| XACTITUDE Hackfest @ Kristu Jayanti | Contestant | Bangalore |
+| Pizza DAO Bitcoin Pizza Day | Host & Speaker | Coimbatore |
+| SRCAS Hackathon 2.0 | Finalist | Coimbatore |
 
 ---
 
@@ -118,19 +137,66 @@ email       : mohammedtaabisha@gmail.com
 
 <img src="https://img.shields.io/badge/Keras-111111?style=for-the-badge&logo=keras&logoColor=D00000" />
 
+<img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+
+<img src="https://img.shields.io/badge/PyCharm-111111?style=for-the-badge&logo=pycharm&logoColor=green" />
+
+<img src="https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+
 </p>
 
 ---
 
 # 🔥 Featured Projects
 
-| 🚀 Project | ⚙️ Stack |
-|---|---|
-| 🪙 Prediction Market DApp | React · Solidity · Ethereum |
-| 📚 College Notes App | MERN Stack |
-| 🌐 Developer Portfolio | React · Tailwind |
-| 🧠 Real-Time Focus Monitor | TensorFlow.js · OpenCV |
-| 🥽 AR & VR Embedded Web App | HTML · CSS · JavaScript |
+| 🚀 Project | 📖 Description | ⚙️ Stack |
+|---|---|---|
+| 🪙 Prediction Market DApp | Blockchain-powered prediction market with wallet authentication | React · Solidity · Ethereum |
+| 📚 College Notes App | Academic notes management platform | MERN Stack |
+| 🌐 Developer Portfolio | Modern responsive portfolio website | React · Tailwind |
+| 🧠 Real-Time Focus Monitor | Chrome extension for engagement detection | TensorFlow.js · OpenCV |
+| 🥽 AR & VR Embedded Web App | Immersive interaction using AR/VR | HTML · CSS · JavaScript |
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=oracle&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Hackathon-Winner-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blueviolet?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Web3-Developer-orange?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🌐 Languages I Speak
+
+| Language | Read | Write | Speak |
+|---|---|---|---|
+| 🇬🇧 English | ✅ | ✅ | ✅ |
+| 🇮🇳 Tamil | ✅ | ✅ | ✅ |
+| 🇮🇳 Hindi | ✅ | ✅ | ✅ |
+| 🕌 Urdu | ➖ | ➖ | ✅ |
 
 ---
 
@@ -150,7 +216,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Taabish07&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=Taabish07&theme=radical&border_radius=10" />
 
 </p>
 
@@ -166,7 +232,7 @@ email       : mohammedtaabisha@gmail.com
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity Graph
 
 <p align="center">
 
@@ -186,6 +252,10 @@ email       : mohammedtaabisha@gmail.com
 
 <a href="https://linkedin.com/in/mohammed-taabish-521308251">
 <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Taabish-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Taabish07">
+<img src="https://img.shields.io/badge/GitHub-Taabish07-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:mohammedtaabisha@gmail.com">
