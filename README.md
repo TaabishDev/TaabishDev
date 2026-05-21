@@ -1,8 +1,12 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=1000&lines=MOHAMMED+TAABISH;BLOCKCHAIN+DEVELOPER;FULL+STACK+DEVELOPER;AI%2FML+ENTHUSIAST;WEB3+BUILDER" />
+# <span style="color:#8A2BE2;">MOHAMMED TAABISH</span>
 
 ### 🚀 Blockchain Developer • Full Stack Developer • AI/ML Enthusiast • Web3 Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Blockchain+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;Hackathon+Winner;Building+Futuristic+Applications" />
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Taabish07&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
 
@@ -160,11 +164,9 @@ email       : mohammedtaabisha@gmail.com
 
 <img src="https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=oracle&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Git-Certified-orange?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/AR%2FVR-Web%20App-blueviolet?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/Hackathon-Winner-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blueviolet?style=for-the-badge" />
 
 </p>
 
@@ -207,17 +209,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Taabish07&theme=radical&row=1&column=7&margin-w=15&margin-h=15" />
-
-</p>
-
----
-
-# 🐍 Contribution Snake — Watch My Garden Grow
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Taabish07/Taabish07/output/github-contribution-grid-snake.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=Taabish07&theme=radical&row=1&column=7" />
 
 </p>
 
@@ -257,18 +249,8 @@ email       : mohammedtaabisha@gmail.com
 
 ---
 
-# 💡 Dev Quote of the Day
-
 <div align="center">
 
-### *"The best way to predict the future is to build it."* 🚀
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐️ From Taabish07
+### 💡 *"The best way to predict the future is to build it."* 🚀
 
 </div>
