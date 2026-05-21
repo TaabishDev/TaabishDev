@@ -10,8 +10,11 @@
 
 ### 🚀 Blockchain Developer | AI/ML Enthusiast | Web3 Builder
 
-<img src="https://komarev.com/ghpvc/?username=Taabish07&label=Profile%20Views&color=A855F7&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Taabish07?label=Followers&style=for-the-badge&color=A855F7" />
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Taabish07&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/Taabish07?label=FOLLOWERS&style=for-the-badge&color=A855F7" />
 
 </div>
 
