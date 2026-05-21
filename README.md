@@ -6,6 +6,8 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mohammed%20Taabish%20A&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=55&desc=Blockchain%20Developer%20|%20AI/ML%20Enthusiast%20|%20Web3%20Builder&descAlign=50&descAlignY=65&animation=fadeIn" />
+
 ### 🚀 Blockchain Developer | AI/ML Enthusiast | Web3 Builder
 
 <img src="https://komarev.com/ghpvc/?username=Taabish07&label=Profile%20Views&color=A855F7&style=for-the-badge" />
@@ -14,7 +16,6 @@
 </div>
 
 ---
-
 # 🧬 About Me
 
 <table>
