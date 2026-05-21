@@ -1,181 +1,98 @@
 <h1 align="center">Hi 👋, I'm Mohammed Taabish</h1>
 
 <h3 align="center">
-Full Stack Developer | Blockchain Enthusiast | AI/ML Learner | Web3 Builder
+Blockchain Developer • Full Stack Developer • AI/ML Enthusiast • Web3 Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Blockchain+Developer;Full+Stack+Developer;AI%2FML+Enthusiast;MERN+Stack+Developer;Web3+Builder;Hackathon+Winner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Blockchain+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;Web3+Builder;Hackathon+Winner;Building+Futuristic+Applications" />
 </p>
 
 ---
 
-# 🚀 About Me
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Taabish07&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/Taabish07?label=FOLLOWERS&style=for-the-badge&color=blueviolet" />
+</p>
+
+---
+
+<p align="center">
+<img src="YOUR_IMAGE_LINK_HERE" width="220" style="border-radius:50%" />
+</p>
+
+---
+
+# 🧬 About Me
+
+```yaml
+name        : Mohammed Taabish
+location    : Coimbatore, Tamil Nadu 🇮🇳
+education   : B.Sc Computer Technology with Blockchain & Distributed Computing
+focus       : Blockchain · MERN Stack · AI/ML · Web3
+portfolio   : https://taabish-portfolio.netlify.app
+email       : mohammedtaabisha@gmail.com
+```
 
 - 🔭 Currently building Blockchain & Web3 Applications
 - 🌱 Learning Smart Contracts, AI/ML & Advanced MERN Stack
-- 👨‍💻 Developing Prediction Market DApps & Full Stack Applications
 - 🧠 Passionate about Machine Learning, NLP & Computer Vision
 - 🏆 Winner — Hackstronauts 24-Hour Hackathon @ SRM University
-- 🎤 Host & Speaker at Blockchain and Tech Events
-- ⚡ Building futuristic decentralized applications
+- 🎤 Host & Speaker at Blockchain & Tech Events
+- ⚡ Passionate about futuristic decentralized applications
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 Professional Exposure
 
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-taabish-521308251" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:mohammedtaabisha@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
-<a href="https://github.com/Taabish07">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
+| 🎯 Event | 📍 Role | 🌍 Location |
+|---|---|---|
+| Team 1 Gaming Night (Avalanche Chain) S1 | Co-Host | Coimbatore |
+| Hackstronauts 24-Hour Hackathon | Winner | Chennai |
+| XACTITUDE Hackfest @ Kristu Jayanti | Contestant | Bangalore |
+| Pizza DAO Bitcoin Pizza Day | Host & Speaker | Coimbatore |
+| SRCAS Hackathon 2.0 | Finalist | Coimbatore |
 
 ---
 
 # 💻 Tech Stack
 
-## 🚀 Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,tailwind,python,solidity,ethereum,tensorflow,pytorch,opencv,git,github,vscode,flask" />
+
 </p>
 
 ---
 
-## ⚛️ Frontend Development
+# ⚡ Animated Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taabish07&theme=github_dark" />
+
 </p>
-
----
-
-## 🛠️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
----
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
----
-
-## ⛓️ Blockchain & Web3
-
-<p>
-<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
-</p>
-
-- MetaMask
-- Hardhat
-- Web3.js
-- Avalanche Chain
-
----
-
-## 🤖 AI / Machine Learning
-
-- TensorFlow
-- TensorFlow.js
-- PyTorch
-- OpenCV
-- Keras
-- Scikit-Learn
-- NLP
-- Sentiment Analysis
-- Named Entity Recognition (NER)
-
----
-
-## 🧰 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,netlify" />
-</p>
-
----
-
-# 🏆 Achievements
-
-- 🥇 Winner — Hackstronauts 24-Hour Hackathon @ SRM University
-- 🎤 Host & Speaker — Pizza DAO Bitcoin Pizza Day
-- 🎮 Co-Host — Avalanche Chain Gaming Night S1 & S2
-- 🏅 Finalist — SRCAS Hackathon 2.0
-- 📜 Oracle Certified Foundation Associate
-- 🧑‍🏫 Edu Pyramids Student Co-Trainer
 
 ---
 
 # 🔥 Featured Projects
 
-## 🪙 Prediction Market DApp
-
-Blockchain-powered prediction market with wallet authentication and decentralized interaction.
-
-### ⚙️ Tech Used
-
-React.js • Solidity • Ethereum • MetaMask • Web3.js
-
----
-
-## 📚 College Notes App
-
-MERN stack application for academic note management and collaboration.
-
-### ⚙️ Tech Used
-
-MongoDB • Express.js • React.js • Node.js
+| 🚀 Project | 📖 Description | ⚙️ Stack |
+|---|---|---|
+| 🪙 Prediction Market DApp | Blockchain-powered prediction market with wallet authentication | React · Solidity · Ethereum |
+| 📚 College Notes App | Academic notes management platform | MERN Stack |
+| 🌐 Developer Portfolio | Modern responsive portfolio website | React · Tailwind |
+| 🧠 Real-Time Focus Monitor | Chrome extension for engagement detection | TensorFlow.js · OpenCV |
+| 🥽 AR & VR Embedded Web App | Immersive interaction using AR/VR | HTML · CSS · JavaScript |
 
 ---
 
-## 🌐 Developer Portfolio
+# 📜 Certifications
 
-Modern responsive portfolio website showcasing projects & technical skills.
-
-### ⚙️ Tech Used
-
-React.js • JavaScript • Tailwind CSS
-
----
-
-## 🧠 Real-Time Focus Monitor
-
-Chrome extension for engagement detection using TensorFlow.js & Computer Vision.
-
-### ⚙️ Tech Used
-
-TensorFlow.js • JavaScript • OpenCV
-
----
-
-## 🥽 AR & VR Embedded Web App
-
-Immersive AR/VR web application recognized at Nilgiri College Summit.
-
-### ⚙️ Tech Used
-
-AR/VR • HTML • CSS • JavaScript
-
----
-
-# 📜 Publications
-
-📄 Augmented and Virtual Reality Embedded Website Application for Steel Based Products  
-🏫 Presented at Nilgiri College Summit (2025)
+- 📜 Oracle Certified Foundation Associate
+- 🧑‍🏫 Edu Pyramids Student Co-Trainer
+- 🏅 AR/VR Web App Recognition — Nilgiri College Summit
 
 ---
 
@@ -191,7 +108,7 @@ AR/VR • HTML • CSS • JavaScript
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Taabish07&theme=radical&border_radius=10" />
@@ -199,7 +116,7 @@ AR/VR • HTML • CSS • JavaScript
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Taabish07&theme=radical&row=1&column=6" />
@@ -213,11 +130,34 @@ AR/VR • HTML • CSS • JavaScript
 
 ---
 
+# 🌐 Connect With Me
 
-# 👀 Profile Views
+<p align="center">
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Taabish07&label=Profile%20views&color=0e75b6&style=flat" alt="Taabish07" />
+<a href="https://linkedin.com/in/mohammed-taabish-521308251">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="mailto:mohammedtaabisha@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
+<a href="https://github.com/Taabish07">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+<a href="https://taabish-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+💡 *"The best way to predict the future is to build it."*
+
 </p>
 
 ---
