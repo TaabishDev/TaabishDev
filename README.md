@@ -65,13 +65,13 @@ email       : mohammedtaabisha@gmail.com
 | SRCAS Hackathon 2.0 | Finalist | Coimbatore |
 
 ---
-
 # 💻 Tech Stack
 
 # 🖥️ Frontend
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -95,7 +95,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
 </p>
@@ -119,69 +119,6 @@ email       : mohammedtaabisha@gmail.com
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-## ⛓️ Blockchain & Web3
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity"/>
-<img src="https://img.shields.io/badge/Ethereum-black?style=for-the-badge&logo=ethereum"/>
-<img src="https://img.shields.io/badge/Web3.js-black?style=for-the-badge&logo=web3dotjs"/>
-<img src="https://img.shields.io/badge/MetaMask-black?style=for-the-badge&logo=metamask"/>
-
-</p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv"/>
-
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman"/>
-
-</p>
-
----
-# ⛓️ Blockchain & Web3
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
-</p>
-
----
-
-# 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ---
