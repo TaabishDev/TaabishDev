@@ -183,9 +183,9 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taabish07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taabish07&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taabish07&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taabish07&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -195,7 +195,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Taabish07&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Taabish07&theme=radical&hide_border=true" />
 
 </p>
 
@@ -274,9 +274,3 @@ email       : mohammedtaabisha@gmail.com
 </div>
 
 ---
-
-<div align="center">
-
-### 💡 "The best way to predict the future is to build it." 🚀
-
-</div>
