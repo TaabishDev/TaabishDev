@@ -225,7 +225,7 @@ email       : mohammedtaabisha@gmail.com
 </p>
 
 ---
-<div align="center">
+
 # 🤝 Let's Connect
 
 <div align="center">
