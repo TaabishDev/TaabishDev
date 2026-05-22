@@ -18,7 +18,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=TaabishDev&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/TaabishDev?label=FOLLOWERS&style=for-the-badge&color=A855F7" />
+<img src="https://img.shields.io/github/followers/TaabishDev?label=FOLLOWERS&style=for-the-badge&color=A855F7&cacheSeconds=60" />
 
 </div>
 
