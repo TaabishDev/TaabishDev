@@ -190,7 +190,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaabishDev&theme=tokyonight&hide_border=true&cache_seconds=60"/>
+<img src="https://streak-stats.demolab.com?user=TaabishDev&theme=tokyonight&hide_border=true"/>
 
 </p>
 
