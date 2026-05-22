@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mohammed%20Taabish%20A&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=55&desc=Blockchain%20Developer%20|%20AI/ML%20Enthusiast%20|%20Web3%20Builder&descAlign=50&descAlignY=65&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Blockchain+Developer;AI%2FML+Enthusiast;Web3+Builder;MERN+Stack+Developer;Smart+Contract+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=🚀Blockchain+Developer;📈Web3+Builder;🤖Smart+Contract+Learner;🧠AI%2FML+Enthusiast" />
 </p>
 
 </div>
